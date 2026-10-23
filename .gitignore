@@ -1,0 +1,23 @@
+# Arquivos locais e gerados
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+
+# Ambientes e segredos
+.env
+.env.*
+!.env.example
+
+# Dependências (se forem adicionadas no futuro)
+node_modules/
+
+# Editores
+.vscode/
+.idea/
+
+# Artefatos locais deste workspace; manter só a página e documentação do projeto
+/work/
+/outputs/
