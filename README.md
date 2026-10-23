@@ -31,4 +31,4 @@ Leia [CONTRIBUTING.md](CONTRIBUTING.md) antes de abrir uma issue ou pull request
 
 ## Licença e materiais visuais
 
-A licença ainda aguarda aprovação do mantenedor. O painel incorpora arte vetorial fornecida durante o desenvolvimento; os direitos de redistribuição dessa arte precisam ser confirmados antes de uma publicação pública. O nome e a marca M-VAVE pertencem aos seus respectivos titulares.
+O código do simulador é distribuído sob a licença [MIT](LICENSE). A arte vetorial incorporada foi fornecida pelo mantenedor para uso neste projeto. Este repositório não inclui fotos do produto. O nome e a marca M-VAVE pertencem aos seus respectivos titulares.
